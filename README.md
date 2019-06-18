@@ -16,6 +16,6 @@ python3 manage.py runserver
 ```
 
 ### Application requirements  :
-django==2.2.2
-djangorestframework
-requests
+- django==2.2.2
+- djangorestframework
+- requests
