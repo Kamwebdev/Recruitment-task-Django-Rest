@@ -14,3 +14,8 @@ python3 manage.py makemigrations
 python3 manage.py migrate
 python3 manage.py runserver
 ```
+
+### Application requirements  :
+django==2.2.2
+djangorestframework
+requests
